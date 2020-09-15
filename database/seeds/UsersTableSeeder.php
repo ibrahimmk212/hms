@@ -14,7 +14,7 @@ class UsersTableSeeder extends Seeder
         DB::table('users')->insert([
             [
                 'email' => 's@gmail.com',
-                'name' => 'shakthi sachintha',
+                'name' => 'Ibrahim Musa Hassan',
                 'password' => '$2y$10$T/AO49e7BmIC9aUG/33mAOdy9yDm/SUGUZC5zU.3Gtj4Lvvf.27My', //12345678
                 'education' => 'acccccccccccccccccadc',
                 'location' => 'sfavasdvasd',
@@ -25,8 +25,8 @@ class UsersTableSeeder extends Seeder
             ],
 
             [
-                'email' => 'ssakunchamikara@gmail.com',
-                'name' => "sakun chamikara",
+                'email' => 'sa@gmail.com',
+                'name' => "Halima Abubakar",
                 'password' => '$2y$10$T/AO49e7BmIC9aUG/33mAOdy9yDm/SUGUZC5zU.3Gtj4Lvvf.27My', //12345678
                 'education' => 'acccccccccccccccccadc',
                 'location' => 'sfavasdvasd',
@@ -37,8 +37,8 @@ class UsersTableSeeder extends Seeder
             ],
 
             [
-                'email' => 'sachinthaindu95@gmail.com',
-                'name' => "sachin de silva",
+                'email' => 'nuhu@gmail.com',
+                'name' => "Nuhu Sani",
                 'password' => '$2y$10$T/AO49e7BmIC9aUG/33mAOdy9yDm/SUGUZC5zU.3Gtj4Lvvf.27My', //12345678
                 'education' => 'acccccccccccccccccadc',
                 'location' => 'sfavasdvasd',
@@ -49,8 +49,8 @@ class UsersTableSeeder extends Seeder
             ],
 
             [
-                'email' => 'sanduniiresha1029@gmail.com',
-                'name' => "sanduni iresha",
+                'email' => 'sani@gmail.com',
+                'name' => "Sani Aliyu Usman",
                 'password' => '$2y$10$T/AO49e7BmIC9aUG/33mAOdy9yDm/SUGUZC5zU.3Gtj4Lvvf.27My', //12345678
                 'education' => 'acccccccccccccccccadc',
                 'location' => 'sfavasdvasd',
@@ -61,8 +61,8 @@ class UsersTableSeeder extends Seeder
             ],
 
             [
-                'email' => 'hasikadilshani@gmail.com',
-                'name' => "hasika dilshani",
+                'email' => 'adamu@gmail.com',
+                'name' => "adamu Adamu",
                 'password' => '$2y$10$T/AO49e7BmIC9aUG/33mAOdy9yDm/SUGUZC5zU.3Gtj4Lvvf.27My', //12345678
                 'education' => 'acccccccccccccccccadc',
                 'location' => 'sfavasdvasd',

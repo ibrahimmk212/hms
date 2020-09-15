@@ -3,14 +3,14 @@
 @section('content')
 
 
-<div id="content" class="container h-100">
+<div id="content" class="container h-100" ">
     <div class="row  h-100 justify-content-center align-items-center">
         <div class="col-8 bg-white border border-white p-5 m-5 rounded">
             <div class="row">
                 <div class="col-6">
                     <img class="text-center mt-5 mx-auto d-block border-0 img-thumbnail" style="border-radius:100%"
                         src="./images/logo.png" alt="">
-                    <h3 class="mt-2 text-center mb-5">Smart Hospitals</h3>
+                    <h3 class="mt-2 text-center mb-5">Hospital<strong>MS</strong></h3>
                 </div>
                 <div class="col-6 mt-2">
                     <form method="post" action="{{ route('login') }}">
